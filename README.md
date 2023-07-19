@@ -16,7 +16,8 @@
 
 Hello fellow developers 👋!
 
-I am excited to share with you my journey of completing the JS Bootcamp from Elzero Web School! This repository contains all the exercises and my solutions. Below is the organized table of contents with links to each exercise for easy navigation:
+I am excited to share with you my journey of completing the **JS Bootcamp** from [Elzero Web School !](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) This repository contains all the exercises and my solutions.
+Below is the organized table of contents with links to each exercise for easy navigation:
 
  If you appreciate it, please consider giving it a star ⭐
 <br />
@@ -24,7 +25,7 @@ I am excited to share with you my journey of completing the JS Bootcamp from Elz
 
 ![brand-js-svgrepo-com (2)](https://github.com/Issam-seghir/JS-Bootcamp/assets/74573675/cb291f04-0698-44d3-9a21-09fc90b07f7a)
 
-<a href="https://issam-seghir.github.io/JS-Bootcamp/">View Demo 🍜 ...</a>
+<a href="https://issam-seghir.github.io/JS-Bootcamp/">View Demo</a>
 .
 <a href="https://github.com/Issam-seghir/JS-Bootcamp/issues">Report Bug</a>
 .
