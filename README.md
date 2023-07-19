@@ -36,6 +36,7 @@ I am excited to share with you my journey of completing the JS Bootcamp from Elz
 <hr>
 
 </div>
+
 ## Usage
 
 You can **install** or (**fork** + **clone**) this repository to your local machine by following these steps:
@@ -62,12 +63,6 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 ### Option 3: Use the website
 
  is cookin 🍜 ...
-
-## Resoursos
-
-- 💻 Turtorials
-  - [elzero youtube channel](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
-  - [elszero web school](https://elzero.org/practical-html-css/)
 
 ## Table of Contents
 
@@ -99,15 +94,6 @@ I want to extend my gratitude to the instructors at Elzero Web School for their 
 
 I hope this repository serves as a reminder of my hard work and dedication to becoming a skilled JavaScript developer. Let's continue learning and building amazing things with JavaScript together! Happy coding! 😄🚀
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Improve  Lighthouse result to (90% minimum)
-- [ ] Add the dark mode
-- [ ] ...
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -122,10 +108,17 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Resoursos
+
+- [Elzero Js Course 2021](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- [Elzero Javascript Bootcamp Assignments](https://elzero.org/category/assignments/javascript-bootcamp-assignments/)
+
+
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the **MIT** License. See `LICENSE.txt` for more information.
+> **credit** : I inspired some exercice solution from : [@HalemoGPA](https://github.com/HalemoGPA/Learn-Js)
 
 ## Special Thanks
 
