@@ -68,27 +68,196 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 
 ## Table of Contents
 
-1. [Basic JavaScript Concepts](./exercise-1.js) - In this exercise, I learned about basic JavaScript concepts like variables, data types, and basic operations.
+### [01. Introduction 001 - 009](<01. Introduction [ 001 - 009 ]>)
 
-2. [Arrays and Loops](./exercise-2.js) - Here, I delved into arrays and loops, mastering the art of working with arrays and iterating through them.
+## [02. Data Types And Variables [ 010 - 017 ]](<02. Data Types And Variables [ 010 - 017 ]>)
 
-3. [Functions](./exercise-3.js) - This exercise taught me how to create functions and use them effectively in my JavaScript code.
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment4)
 
-4. [Objects and Classes](./exercise-4.js) - In this exercise, I explored the world of objects and classes, understanding the power of object-oriented programming.
+## 3️⃣ Operators
 
-5. [Asynchronous JavaScript (Promises, Async/Await)](./exercise-5.js) - I delved into asynchronous JavaScript, mastering the concepts of promises and async/await for handling asynchronous operations.
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment3)
 
-6. [DOM Manipulation](./exercise-6.js) - Here, I learned how to manipulate the DOM (Document Object Model) using JavaScript to create dynamic and interactive web pages.
+## 4️⃣ Numbers
 
-7. [Fetch API](./exercise-7.js) - This exercise introduced me to the Fetch API, enabling me to make HTTP requests and handle responses.
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment6)
+[• Assignment 7](https://github.com/HalemoGPA/Learn-Js/tree/main/Week4/Assignment7)
 
-8. [Event Listeners](./exercise-8.js) - In this exercise, I learned how to use event listeners to respond to user interactions and create event-driven applications.
+## 5️⃣ Strings And Methods
 
-9. [Local Storage](./exercise-9.js) - Here, I discovered how to leverage the local storage in the browser to store and retrieve data.
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week5/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week5/Assignment2)
 
-10. [Forms and Form Validation](./exercise-10.js) - This exercise taught me how to work with HTML forms and implement form validation using JavaScript.
+## 6️⃣ Comparison & Logical Operators
 
-... Continue with the rest of the exercises ...
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment3)
+
+## 7️⃣ If Condition
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment4)
+
+## 8️⃣ Switch Statement
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week8/Assignment1)
+
+## 9️⃣ Arrays And Methods
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week9/Assignment6)
+
+## 🔟 Loop - For
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment6)
+[• Assignment 7](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment7)
+
+## 1️⃣1️⃣ Loop - While
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week11/Assignment1)
+
+## 1️⃣2️⃣ Function And Parameters
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week12/Assignment6)
+
+## 1️⃣3️⃣ Function And Scopes
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week13/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week13/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week13/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week13/Assignment4)
+
+## 1️⃣4️⃣ Higher Order Functions
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week14/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week14/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week14/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week14/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week14/Assignment5)
+
+## 1️⃣5️⃣ Objects And Methods
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week15/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week15/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week15/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week15/Assignment4)
+
+## 1️⃣6️⃣ Document Object Model
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment6)
+
+## 1️⃣7️⃣ Document Object Model
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week17/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week17/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week17/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week17/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week17/Assignment5)
+
+## 1️⃣8️⃣ Browser Object Model
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment5)
+
+## 1️⃣9️⃣ Browser Object Model
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week19/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week19/Assignment2)
+
+## 2️⃣0️⃣ Destructuring
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week20/Assignment6)
+
+## 2️⃣1️⃣ Map And Set
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment6)
+[• Assignment 7](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment7)
+[• Assignment 8](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment8)
+
+## 2️⃣2️⃣ Regular Expression
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment6)
+
+## 2️⃣3️⃣ Object Oriented Programming
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment5)
+
+## 2️⃣4️⃣ Date, Generators, Modules
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment4)
+[• Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment5)
+[• Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment6)
+[• Assignment 7](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment7)
+[• Assignment 8](https://github.com/HalemoGPA/Learn-Js/tree/main/Week24/Assignment8)
+
+## 2️⃣5️⃣ AJAX And JSON
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment2)
+[• Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment3)
+[• Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment4)
+
+## 2️⃣6️⃣ Promises
+
+[• Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week26/Assignment1)
+[• Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week26/Assignment2)
 
 I am proud of the progress I've made in mastering JavaScript through this bootcamp. Each exercise has challenged me and allowed me to grow as a developer. I am now confident in my ability to build interactive and functional web applications.
 
@@ -114,7 +283,6 @@ Don't forget to give the project a star! Thanks again!
 
 - [Elzero Js Course 2021](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 - [Elzero Javascript Bootcamp Assignments](https://elzero.org/category/assignments/javascript-bootcamp-assignments/)
-
 
 <!-- LICENSE -->
 ## License
