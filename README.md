@@ -14,12 +14,16 @@
 
 <p align="center">
 
+<br/>
+<br/>
 Hello fellow developers 👋!
 
 I am excited to share with you my journey of completing the **JS Bootcamp** from [Elzero Web School !](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) This repository contains all the exercises and my solutions.
 Below is the organized table of contents with links to each exercise for easy navigation:
 
  If you appreciate it, please consider giving it a star ⭐
+ > check my [code pane](https://codepen.io/collection/wamzMa?grid_type=list) collection for elzero css assignments
+
 <br />
 <br />
 
@@ -65,6 +69,9 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 ### Option 3: Use the website
 
  is cooking 🍜 ...
+
+<br>
+<hr>
 
 ## Table of Contents
 
@@ -267,10 +274,7 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 - [Assignment 1](<26. Promises [ 179 - 188 ]/Assignment 1>)
 - [Assignment 2](<26. Promises [ 179 - 188 ]/Assignment 2>)
 
-
-
 ---
-
 
 <!-- CONTRIBUTING -->
 ## Contributing

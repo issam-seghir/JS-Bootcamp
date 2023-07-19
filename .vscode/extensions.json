@@ -5,6 +5,7 @@
         "davidanson.vscode-markdownlint",
         "wallabyjs.quokka-vscode",
         "ritwickdey.liveserver",
-        "tabnine.tabnine-vscode"
+        "tabnine.tabnine-vscode",
+        "dbaeumer.vscode-eslint"
     ]
 }
