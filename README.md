@@ -121,7 +121,7 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 
 ## 08. [Switch Statement  [ 38 - 39 ]](<08. Switch Statement  [ 38 - 39 ]>)
 
-[Assignment 1](<08. Switch Statement  [ 38 - 39 ]/Assignment 1/tasks.md>)
+- [Assignment 1](<08. Switch Statement  [ 38 - 39 ]/Assignment 1/tasks.md>)
 
 ## 09. [Arrays And Methods  [ 40 - 47 ]](<09. Arrays And Methods  [ 40 - 47 ]>)
 
@@ -146,7 +146,7 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 
 - [Assignment 1](<11. Loop - While [ 54 - 56 ]/Assignment 1/tasks.md>)
 
-## 12. - [Title](<12. Function And Parameters [ 57 - 63 ]>)
+## 12. - [Function And Parameters [ 57 - 63 ]](<12. Function And Parameters [ 57 - 63 ]>)
 
 - [Assignment 1](<12. Function And Parameters [ 57 - 63 ]/Assignment 1>)
 - [Assignment 2](<12. Function And Parameters [ 57 - 63 ]/Assignment 2>)
@@ -267,11 +267,10 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 - [Assignment 1](<26. Promises [ 179 - 188 ]/Assignment 1>)
 - [Assignment 2](<26. Promises [ 179 - 188 ]/Assignment 2>)
 
-I am proud of the progress I've made in mastering JavaScript through this bootcamp. Each exercise has challenged me and allowed me to grow as a developer. I am now confident in my ability to build interactive and functional web applications.
 
-I want to extend my gratitude to the instructors at Elzero Web School for their excellent teaching and guidance throughout this course. I couldn't have done it without their support.
 
-I hope this repository serves as a reminder of my hard work and dedication to becoming a skilled JavaScript developer. Let's continue learning and building amazing things with JavaScript together! Happy coding! 😄🚀
+---
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
