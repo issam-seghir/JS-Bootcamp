@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "davidanson.vscode-markdownlint",
+        "wallabyjs.quokka-vscode",
+        "ritwickdey.liveserver",
+        "tabnine.tabnine-vscode"
+    ]
+}

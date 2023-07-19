@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Assign 1</title>
+	<script>
+		window.onload = function () {
+			for (const element of document.getElementsByTagName("a")) {
+
+				if (element.classList.contains("open") && element.getAttribute("href").includes("elzero")) {
+					window.open(element.getAttribute("href"), "_blank");
+					break;
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<a class="open" href="https://google.com">Google</a>
+	<a class="open" href="https://elzero.org">Elzero</a>
+	<a class="not" href="https://facebook.com">Facebook</a>
+	<a class="linked" href="https://linkedin.com">Elzero</a>
+	<script src="main.js"></script>
+</body>
+
+</html>

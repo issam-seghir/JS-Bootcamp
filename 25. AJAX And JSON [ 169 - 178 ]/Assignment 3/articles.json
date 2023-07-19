@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"author": "John Doe",
+		"title": "Introduction to JavaScript",
+		"category": "frontend",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor lectus vel nunc condimentum, ut pellentesque lorem tincidunt. Nullam posuere lectus et mi fringilla, in feugiat libero lobortis. Nulla ac ante vitae eros luctus volutpat."
+	},
+	{
+		"id": 2,
+		"author": "Jane Smith",
+		"title": "CSS Styling Techniques",
+		"category": "frontend",
+		"content": "Vestibulum consectetur neque auctor, fermentum justo sed, viverra nisl. Integer sed purus eget neque laoreet ultrices vel at mi. Suspendisse potenti. Fusce eleifend arcu in arcu accumsan, id semper ex vulputate."
+	},
+	{
+		"id": 3,
+		"author": "David Johnson",
+		"title": "Getting Started with React",
+		"category": "frontend frameworks",
+		"content": "Proin lacinia lorem in magna viverra lobortis. Sed quis elit nec turpis convallis fringilla ac ut turpis. Cras scelerisque sapien a sem interdum, nec iaculis risus efficitur. Curabitur id magna id nisi posuere dignissim."
+	},
+	{
+		"id": 4,
+		"author": "Emily Williams",
+		"title": "Python Programming Basics",
+		"category": "basic programming",
+		"content": "Praesent venenatis purus quis turpis fringilla, vitae efficitur sem rhoncus. Maecenas sollicitudin mi vel consectetur auctor. Sed tristique nisl sit amet metus tincidunt, at pharetra ligula gravida."
+	},
+	{
+		"id": 5,
+		"author": "Michael Brown",
+		"title": "Database Management with SQL",
+		"category": "database",
+		"content": "Morbi consequat felis et lacus fermentum, eget varius sapien faucibus. Quisque pharetra urna nec elit cursus, ut scelerisque lorem lobortis. Suspendisse potenti. Aliquam luctus nunc at sapien suscipit placerat."
+	}
+]

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Assign 6</title>
+	<style>
+		body {
+			background: linear-gradient(90deg, #ffb7c6 0%, #fcaaf1 100%);
+		}
+
+		form {
+			margin: 0 auto;
+			width: fit-content;
+		}
+
+		input,
+		select {
+			background-color: #F8E0E0;
+			color: #FF69B4;
+			border: 2px solid #FF69B4;
+			padding: 5px;
+			border-radius: 5px;
+		}
+
+		input:focus,
+		select:focus {
+			outline: none;
+			box-shadow: 0 0 5px #FF69B4;
+		}
+
+		.results>* {
+			border: 2px solid palevioletred;
+			border-radius: 2rem;
+			padding: 1rem;
+			margin: 0.5rem;
+			text-align: center;
+			font-family: cursive;
+			font-size: medium;
+			font-weight: bold;
+			text-transform: capitalize;
+			color: palevioletred;
+			background-color: pink;
+		}
+
+		.results>*:hover {
+			box-shadow: 0 0 5px #FF69B4;
+		}
+	</style>
+</head>
+
+<body>
+	<form action="">
+		<input type="number" name="elements" class="input" placeholder="Number Of Elements" />
+		<input type="text" name="texts" class="input" placeholder="Elements Text" />
+		<select name="type" class="input">
+			<option value="Div">Div</option>
+			<option value="Section">Section</option>
+		</select>
+		<input type="submit" name="create" value="Create" />
+		<div class="results"></div>
+	</form>
+</body>
+<script src="main.js"></script>
+
+</html>

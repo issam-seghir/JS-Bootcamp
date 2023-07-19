@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Assign 1</title>
+	<script>
+		/*
+		This is will not work because it is trying to access the element with the id "el" before it is rendered in the HTML.
+		At the time the code is executed, the element has not yet been parsed by the browser
+		 */
+		// Code One ✖
+		document.getElementById("el").style.color = "red";
+	</script>
+	<script>
+		// Code Two ✔
+		window.onload = function () {
+			document.getElementById("el").style.color = "red";
+		};
+	</script>
+</head>
+
+<body>
+	<h1 id="el">Page Title</h1>
+	<script>
+		// Code Three ✔
+		document.getElementById("el").style.color = "red";
+	</script>
+</body>
+
+</html>
