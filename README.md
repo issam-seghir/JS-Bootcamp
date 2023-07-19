@@ -68,7 +68,14 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 
 ## Table of Contents
 
-### [01. Introduction 001 - 009](<01. Introduction [ 001 - 009 ]>)
+### 01. [Introduction [ 001 - 009] ](<01. Introduction [ 001 - 009 ]>)
+
+- [Assignment 1](<01. Introduction [ 001 - 009 ]/Assignment 1>)
+- [Assignment 2](<01. Introduction [ 001 - 009 ]/Assignment 2>)
+- [Assignment 3](<01. Introduction [ 001 - 009 ]/Assignment 3>)
+- [Assignment 4](<01. Introduction [ 001 - 009 ]/Assignment 4/tasks.md>)
+- [Assignment 5](<01. Introduction [ 001 - 009 ]/Assignment 5>)
+- [Assignment 6](<01. Introduction [ 001 - 009 ]/Assignment 6>)
 
 ## [02. Data Types And Variables [ 010 - 017 ]](<02. Data Types And Variables [ 010 - 017 ]>)
 
